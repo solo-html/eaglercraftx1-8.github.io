@@ -63,7 +63,6 @@ button {
 .source-btn {
     background-color: #333333;
     color: white;
-    padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
     border: none;
@@ -168,21 +167,24 @@ button:hover {
     display:flex;
     flex-wrap:wrap;
     flex-flow:wrap-reverse;
-    align-content: space-evenly
-
+    align-items: center;
 }
-.footer a {
+#footerButtons a {
     font-size:12px;
     padding: 10px 10px;
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    margin: 10px auto;
+    /*bro i hate working with this footer like i swear this css has commander games page level stability
+    /* margin: 10px auto; */
     text-decoration: none;
     display: inline-block;
     max-width: 200px;
     background-color:#d9d9d9 !important;
-    color:#000000 important;
+    color:#000000 !important;
+    height:15px;
+    padding: 10px 20px;
+    margin:10px;
 }
 .recommended {
     vertical-align: middle;
@@ -195,4 +197,21 @@ button:hover {
     font-weight: 500;
     font-style: normal;
     color:#ffffff;
+}
+#footerButtons {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content:center;
+    width:100%;
+    height:15px;
+}
+#footerText {
+    display:flex;
+    flex-direction: column;
+    width:100%;
+    margin-bottom: 5px;
+}
+#footerText > p {
+    margin:0;
 }
