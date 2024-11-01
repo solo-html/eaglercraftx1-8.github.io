@@ -8,29 +8,31 @@ body {
     flex-direction: column;
     min-height: 100vh;
     overflow-x: hidden;
+    position:fixed;
+    width:100%
 }
-.mobileContainer18 {
+#mobileContainer18 {
     display: flex;
     width: 1%;
     flex-wrap:wrap;
     justify-content: center;
     margin: 0 auto;
 }
-.Container18{
+#Container18{
     display: flex;
     width: 1%;
     flex-wrap:wrap;
     justify-content: center;
     margin: 0 auto;
 }
-.Container15{
+#Container15{
     display: flex;
     width: 1%;
     flex-wrap:wrap;
     justify-content:center;
     margin: 0 auto;
 }
-.mobileContainer15{
+#mobileContainer15{
     display: flex;
     width: 1%;
     flex-wrap:wrap;
