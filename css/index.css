@@ -234,7 +234,7 @@ button:hover {
     height: 10px;
     border-radius: 53px;
     z-index: 2;
-    
+    padding: 0px 20px;
 }
 #stupidbackgroundbox {
     color: #a6a6a6;
@@ -253,6 +253,7 @@ button:hover {
     z-index: 0;
     height:10px;
     border-radius: 53px;
+    padding: 0px 20px;
 }
 #dumbBackgroundbox {
     color: #d9d9d9;
@@ -272,5 +273,8 @@ button:hover {
     height: 10px;
     width:100%;
     justify-content: center;
+}
+#containerHell {
     width: 151px;
+    justify-content: center;
 }
