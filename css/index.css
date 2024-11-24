@@ -217,3 +217,60 @@ button:hover {
 #footerText > p {
     margin:0;
 }
+/* flexbox will solve all problems guys trust */
+#gamescontainer {
+    background-color: #d9d9d9;
+    border-radius: 20px;
+    height: 33%;
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    column-gap: 2ch;
+    row-gap: 2ch;
+}
+#stupid {
+    color: #a6a6a6;
+    height: 10px;
+    border-radius: 53px;
+    z-index: 2;
+    
+}
+#stupidbackgroundbox {
+    color: #a6a6a6;
+    z-index: -1;
+    height:10px;
+    border-radius: 53px;
+}
+#stupidcontainer{
+    display: flex;
+    flex-direction: row;
+    height: 10px;
+    border-radius: 53px;
+}
+#dumb {
+    color: #d9d9d9;
+    z-index: 0;
+    height:10px;
+    border-radius: 53px;
+}
+#dumbBackgroundbox {
+    color: #d9d9d9;
+    z-index: 1;
+    height:10px;
+    border-radius: 53px;
+}
+#dumbcontainer {
+    display:flex;
+    flex-direction: row;
+    height:10px;
+}
+#versionSelector {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 10px;
+    width:100%;
+    justify-content: center;
+    width: 151px;
+}
