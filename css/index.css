@@ -218,6 +218,7 @@ button:hover {
     flex-direction: column;
     width:100%;
     margin-bottom: 5px;
+    color: #a6a6a6;
 }
 #footerText > p {
     margin:0;
