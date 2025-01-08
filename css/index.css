@@ -1,6 +1,6 @@
 body {
     font-family: 'Ubuntu', sans-serif;
-    background-color: #545454;
+    background-color: #545454 !important;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -223,10 +223,11 @@ button:hover {
     flex-direction: column;
     width:100%;
     margin-bottom: 5px;
-    color: #a6a6a6;
+    color: #a6a6a6 !important;
 }
 #footerText > p {
     margin:0;
+    #a6a6a6
 }
 /* flexbox will solve all problems guys trust */
 #gamescontainer {
