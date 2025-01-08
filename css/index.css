@@ -11,6 +11,10 @@ body {
     position:fixed;
     width:100%
 }
+#gamescontainer{
+    background-color: #d9d9d9;
+    border-radius: 30;
+}
 #mobileContainer18 {
     display: flex;
     width: 1%;
