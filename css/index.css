@@ -13,6 +13,7 @@ body {
 }
 .card{
     background-color: #d9d9d9;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     border-radius: 30px;
 }
 #mobileContainer18 {
