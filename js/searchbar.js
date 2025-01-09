@@ -10,4 +10,8 @@ $(document).ready(function() {
             }
         });
     });
+    $('#thing').on('click', function() {
+        $('#search-bar').val('');
+        $('.filter-button').show();
+    });
 });

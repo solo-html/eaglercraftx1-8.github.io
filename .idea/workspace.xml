@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b032e9a1-a186-4b16-a0d0-6f4ce5833eac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="b032e9a1-a186-4b16-a0d0-6f4ce5833eac" name="Changes" comment="unversioned files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/searchbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/searchbar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,8 +89,17 @@
       <workItem from="1736394514247" duration="682000" />
       <workItem from="1736396301872" duration="64000" />
       <workItem from="1736396376903" duration="80000" />
-      <workItem from="1736396462122" duration="618000" />
+      <workItem from="1736396462122" duration="667000" />
     </task>
+    <task id="LOCAL-00001" summary="unversioned files">
+      <option name="closed" value="true" />
+      <created>1736397099354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736397099354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="unversioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="unversioned files" />
   </component>
 </project>
