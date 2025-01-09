@@ -237,15 +237,16 @@ button:hover {
 }
 /* flexbox will solve all problems guys trust */
 #gamescontainer {
-    background-color: #d9d9d9;
     border-radius: 20px;
     height: 33%;
-    width: 75%;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    justify-content: center;
     column-gap: 2ch;
     row-gap: 2ch;
+    margin-top: 20px;
 }
 #stupid {
     color: black;
@@ -291,7 +292,8 @@ button:hover {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    height: 10px;
+    /* dont make this 10px or under, then it squishes the text inside*/
+    height:30px;
     width:100%;
     justify-content: center;
 }
