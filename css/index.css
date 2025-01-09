@@ -189,7 +189,7 @@ button:hover {
     align-items: center;
 }
 #footerButtons a {
-    font-size:12px;
+    font-size:20px;
     padding: 10px 10px;
     cursor: pointer;
     border: none;
@@ -201,7 +201,6 @@ button:hover {
     max-width: 200px;
     background-color:#d9d9d9 !important;
     color:#000000 !important;
-    height:15px;
     padding: 10px 20px;
     margin:10px;
 }
