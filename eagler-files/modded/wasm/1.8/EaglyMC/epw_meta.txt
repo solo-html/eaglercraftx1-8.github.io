@@ -1,8 +1,3 @@
-client-version-integer=44
-client-package-name=net.lax1dude.eaglercraft.v1_8.client
-client-origin-name=EaglercraftX
-client-origin-version=u44
-client-origin-vendor=lax1dude
-client-fork-name=EaglercraftX
-client-fork-version=u44
-client-fork-vendor=lax1dude
+version https://git-lfs.github.com/spec/v1
+oid sha256:43bba8fad376bdd0c25b408c3b8a3d340dabc2aed21207a47d5cc9da8df0d9c8
+size 261
