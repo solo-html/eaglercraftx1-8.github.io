@@ -1,1 +1,1 @@
-eagler-files/**/* filter=lfs diff=lfs merge=lfs -text
+git checkout HEAD -- eagler-files/
